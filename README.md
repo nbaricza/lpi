@@ -11,6 +11,7 @@ Praktické cvičenia
 ------------------
 
 * [Cvičenie 1](cv01) (SAT solver)
+* [Cvičenie 2](cv02) (Sudoku)
 
 Pravidlá pre praktické cvičenia
 -------------------------------
