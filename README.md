@@ -13,6 +13,12 @@ Praktické cvičenia
 * [Cvičenie 1](cv01) (SAT solver)
 * [Cvičenie 2](cv02) (Sudoku)
 
+Domáce úlohy
+------------
+
+* [Domáca úloha 1](du01)
+  (výroková logika s implikáciou a spojkou <i>a nie</i>)
+
 Pravidlá pre praktické cvičenia
 -------------------------------
 
@@ -36,3 +42,4 @@ svoj súhlas s nasledovnými podmienkami:
 - Do repozitára budete nahrávať iba materiály, ktoré máte právo zverejniť
   (vzhľadom na autorské práva, iné zákony a pravidlá).
 Tieto podmienky sú súčasťou podmienok na absolvovanie tohoto predmetu.
+
