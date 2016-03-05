@@ -16,7 +16,7 @@ keď sa prihlásite na github).
 `fork`-núť pod svojho používateľa.** Riešenia potom nahrávate do tohoto svojho forku a
 odovzdáte ich tým, že vyrobíte pull request.
 
-![GitHub fork](images/github-fork.png)
+![GitHub fork](../images/github-fork.png)
 
 Odovzdanie konkrétneho riešenia pozostáva z dvoch krokov:
 - [Nahrať](#nahranie-riešenia) vaše riešenie na GitHub do vášho repozitára
@@ -69,7 +69,7 @@ Najskôr potrebujeme otvoriť správnu vetvu (branch), do ktorej máme
 riešenie uložiť (napr `cv01`). Jedna možnosť je jednoducho otvoriť váš súkromný
 repozitár a prepnúť sa na správnu vetvu:
 
-![GitHub branch](images/github-pull-select-branch.png)
+![GitHub branch](../images/github-pull-select-branch.png)
 
 Druhá možnosť je priamo otvoriť správne url:
 
@@ -81,16 +81,16 @@ do ktorej potrebujete nahrať riešenie.
 Následne prejdite do správneho adresára (t.j. `cv01`) a kliknite na ikonu na
 vytvorenie nového súboru:
 
-![GitHub branch](images/github-file-create.png)
+![GitHub branch](../images/github-file-create.png)
 
 Otvorí sa Vám formulár, kde môžete zadať meno súboru a napríklad skopírovať
 jeho obsah:
 
-![GitHub branch](images/github-file-edit-name.png)
+![GitHub branch](../images/github-file-edit-name.png)
 
 Následne napíšte krátku správu / poznámku a odošlite:
 
-![GitHub branch](images/github-file-commit.png)
+![GitHub branch](../images/github-file-commit.png)
 
 Ak potrebujete odovzdať viacero súborov, jednoducho postup opakujte.
 Keď sú všetky nahraté, pokračujte [vytvorením pull requestu](#vytvorenie-pull-requestu).
@@ -98,7 +98,7 @@ Keď sú všetky nahraté, pokračujte [vytvorením pull requestu](#vytvorenie-p
 *Hint*: po odoslaní súboru, ste na stránke, kde môžete rovno vyrobiť [pull
 request](#vytvorenie-pull-requestu) zo správnej vetvy:
 
-![GitHub branch](images/github-file-pull.png)
+![GitHub branch](../images/github-file-pull.png)
 
 
 ### GitHub aplikácia
@@ -173,28 +173,28 @@ do nášho repozitara (FMFI-UK-1-AIN-412/VasAisLoginCISLO).
 Najskôr potrebujeme otvoriť Vašu vetvu: otvorte Váš súkromný repozitár a prepnite
 sa na správnu vetvu:
 
-![GitHub branch](images/github-pull-select-branch.png)
+![GitHub branch](../images/github-pull-select-branch.png)
 
 Tlačítok na vytvorenie pull requestu je vždy viac než dosť:
 
-![GitHub pull request](images/github-pull-create.png)
+![GitHub pull request](../images/github-pull-create.png)
 
 GitHub Vám ukáže, k akým zmenám sa chystáte vytvoriť pull request (malo by to
 byť pridanie Vášho riešenia).  Skontrolujte, pre ktorú vetvu vytvárame pull
 request (`cv01`), a kliknite `Create Pull Request`:
 
-![GitHub pull request](images/github-pull-creating.png)
+![GitHub pull request](../images/github-pull-creating.png)
 
 V ďalšom kroku môžete vyplniť krátky komentár, predvyplnená je správa z
 posledného commitu.  Neváhajte napísať komentáre k Vášmu riešeniu. Odovzdanie
 ukončíte stlačením tlačidla `Create pull request`:
 
-![GitHub pull request](images/github-pull-creating2.png)
+![GitHub pull request](../images/github-pull-creating2.png)
 
 Po odoslaní sa vám ukáže novovytvorený pull request. Časom sa v ňom objavia
 komentáre s vaším hodnotením:
 
-![GitHub pull request](images/github-pull-created.png)
+![GitHub pull request](../images/github-pull-created.png)
 
 Poznámka: aj po otvorení pull requestu možete ďalej nahrávať zmeny do vetvy, z
 ktorej ste ho urobili (t.j. `cv01`). Tie sa automaticky objavia v pull requeste
