@@ -11,6 +11,12 @@ Praktické cvičenia
 
 * [Cvičenie 1](cv01) (SAT solver)
 * [Cvičenie 2](cv02) (Sudoku)
+* [Cvičenie 3](cv03) (formula)
+
+Bonusy
+------
+
+* [Bonus 1](bonus01) (parsovanie formuly)
 
 Domáce úlohy
 ------------
