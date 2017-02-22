@@ -5,6 +5,8 @@ Logika pre informatikov
 
 [Inštrukcie na odovzdávanie riešení](docs/odovzdavanie.md).
 
+[Poznámky z prednášok](docs/lecs).
+
 Praktické cvičenia
 ------------------
 
