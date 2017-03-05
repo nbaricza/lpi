@@ -1,11 +1,9 @@
 Logika pre informatikov
 ========================
 
-[Stránka predmetu](https://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk).
-
-[Inštrukcie na odovzdávanie riešení](docs/odovzdavanie.md).
-
-[Poznámky z prednášok](docs/lecs).
+* [Stránka predmetu](https://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk)
+* [Inštrukcie na odovzdávanie riešení](docs/odovzdavanie.md)
+* [Poznámky z prednášok](docs/lecs)
 
 Praktické cvičenia
 ------------------
