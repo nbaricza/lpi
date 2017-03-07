@@ -24,13 +24,13 @@ Domáce úlohy
 * [Domáca úloha 1](du01)
   (výroková logika s implikáciou a spojkou <i>a nie</i>)
 
-Pravidlá pre praktické cvičenia
--------------------------------
+Pravidlá pre praktické cvičenia a domáce úlohy
+----------------------------------------------
 
 ### Odpisovanie
 
 Môžete sa rozprávať o svojich riešeniach so spolužiakmi (poradiť sa, ako niečo
-riešiť a podobne), ale odovzdaný kód (prípadne iné pomocné súbory) musí byť
+riešiť a podobne), ale odovzdaný kód / text (prípadne iné pomocné súbory) musí byť
 vaša samostatná práca (samozrejme s výnimkou častí, ktoré spravíme spoločne
 na cvičeniach).
 
